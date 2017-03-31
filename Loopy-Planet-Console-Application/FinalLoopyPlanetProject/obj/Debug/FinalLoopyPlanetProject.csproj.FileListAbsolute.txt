@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\FinalLoopyPlanetProject\FinalLoopyPlanetProject\bin\Debug\FinalLoopyPlanetProject.exe.config
+c:\users\user\documents\visual studio 2015\Projects\FinalLoopyPlanetProject\FinalLoopyPlanetProject\bin\Debug\FinalLoopyPlanetProject.exe
+c:\users\user\documents\visual studio 2015\Projects\FinalLoopyPlanetProject\FinalLoopyPlanetProject\bin\Debug\FinalLoopyPlanetProject.pdb
+c:\users\user\documents\visual studio 2015\Projects\FinalLoopyPlanetProject\FinalLoopyPlanetProject\obj\Debug\FinalLoopyPlanetProject.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\FinalLoopyPlanetProject\FinalLoopyPlanetProject\obj\Debug\FinalLoopyPlanetProject.exe
+c:\users\user\documents\visual studio 2015\Projects\FinalLoopyPlanetProject\FinalLoopyPlanetProject\obj\Debug\FinalLoopyPlanetProject.pdb
+C:\Users\User\Desktop\FinalLoopyPlanetProject\FinalLoopyPlanetProject\bin\Debug\FinalLoopyPlanetProject.exe.config
+C:\Users\User\Desktop\FinalLoopyPlanetProject\FinalLoopyPlanetProject\obj\Debug\FinalLoopyPlanetProject.exe
+C:\Users\User\Desktop\FinalLoopyPlanetProject\FinalLoopyPlanetProject\obj\Debug\FinalLoopyPlanetProject.pdb
+C:\Users\User\Desktop\FinalLoopyPlanetProject\FinalLoopyPlanetProject\bin\Debug\FinalLoopyPlanetProject.exe
+C:\Users\User\Desktop\FinalLoopyPlanetProject\FinalLoopyPlanetProject\bin\Debug\FinalLoopyPlanetProject.pdb
+C:\Users\User\Desktop\FinalLoopyPlanetProject\FinalLoopyPlanetProject\obj\Debug\FinalLoopyPlanetProject.csprojResolveAssemblyReference.cache
